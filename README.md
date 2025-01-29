@@ -11,9 +11,9 @@ Bem-vindo ao meu perfil GitHub! Sou [Sou estudante de Tecnologia da Informação
 
 ## 📚 Projetos Recentes
 
-- [Projeto 1](link para o repositório) - Descrição breve do projeto.
-- [Projeto 2](link para o repositório) - Descrição breve do projeto.
-- [Projeto 3](link para o repositório) - Descrição breve do projeto.
+- [Projeto 1] - Descrição em breve do projeto.
+- [Projeto 2]) - Descrição em breve do projeto.
+- [Projeto 3] - Descrição em breve do projeto.
 
 ## 🌱 Estou aprendendo
 
